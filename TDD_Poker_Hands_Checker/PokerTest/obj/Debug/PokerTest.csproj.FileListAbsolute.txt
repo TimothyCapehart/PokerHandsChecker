@@ -1,0 +1,16 @@
+C:\Users\tcape\source\repos\TDD_Poker_Hands\TDD_Poker_Hands_Checker\PokerTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\tcape\source\repos\TDD_Poker_Hands\TDD_Poker_Hands_Checker\PokerTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\tcape\source\repos\TDD_Poker_Hands\TDD_Poker_Hands_Checker\PokerTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\tcape\source\repos\TDD_Poker_Hands\TDD_Poker_Hands_Checker\PokerTest\bin\Debug\PokerTest.dll
+C:\Users\tcape\source\repos\TDD_Poker_Hands\TDD_Poker_Hands_Checker\PokerTest\bin\Debug\PokerTest.pdb
+C:\Users\tcape\source\repos\TDD_Poker_Hands\TDD_Poker_Hands_Checker\PokerTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\tcape\source\repos\TDD_Poker_Hands\TDD_Poker_Hands_Checker\PokerTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\tcape\source\repos\TDD_Poker_Hands\TDD_Poker_Hands_Checker\PokerTest\bin\Debug\Poker.exe
+C:\Users\tcape\source\repos\TDD_Poker_Hands\TDD_Poker_Hands_Checker\PokerTest\bin\Debug\Poker.pdb
+C:\Users\tcape\source\repos\TDD_Poker_Hands\TDD_Poker_Hands_Checker\PokerTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\tcape\source\repos\TDD_Poker_Hands\TDD_Poker_Hands_Checker\PokerTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\tcape\source\repos\TDD_Poker_Hands\TDD_Poker_Hands_Checker\PokerTest\obj\Debug\PokerTest.csproj.CoreCompileInputs.cache
+C:\Users\tcape\source\repos\TDD_Poker_Hands\TDD_Poker_Hands_Checker\PokerTest\obj\Debug\PokerTest.csproj.CopyComplete
+C:\Users\tcape\source\repos\TDD_Poker_Hands\TDD_Poker_Hands_Checker\PokerTest\obj\Debug\PokerTest.dll
+C:\Users\tcape\source\repos\TDD_Poker_Hands\TDD_Poker_Hands_Checker\PokerTest\obj\Debug\PokerTest.pdb
+C:\Users\tcape\source\repos\TDD_Poker_Hands\TDD_Poker_Hands_Checker\PokerTest\obj\Debug\PokerTest.csprojAssemblyReference.cache
